@@ -1,4 +1,4 @@
-# vandamkokborok
+# vanDam-2023-584
 Data collected as part of a lexicostatistical analysis of Barish (Bodo-Garo) languages. 
 
 This dataset includes four clanlects of Kokborok as spoken in Tripura, India, as well as nearly collected data on Bodo `bodo1269` as spoken in Kokrajhar. The Kokborok dialects represented here are Kau Bru Reang `hala1254`, the Debbarma clanlect of Kokborok `debb1238`, the Rupini clanlect `rupi1234`, and the Tripura clanlect `tipp1239`.
