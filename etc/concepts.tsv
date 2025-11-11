@@ -1,0 +1,585 @@
+NUMBER	ID	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	0001.:one	one	1493	ONE
+2	0002.:two	two	1498	TWO
+3	0003.:three	three	492	THREE
+4	0004.:four	four	1500	FOUR
+5	0005.:five	five	493	FIVE
+6	0006.:six	six	1703	SIX
+7	0007.:seven	seven	1704	SEVEN
+8	0008.:eight	eight	1705	EIGHT
+9	0009.:nine	nine	1483	NINE
+10	0010.:ten	ten	1515	TEN
+11	0020.:twenty	twenty	1710	TWENTY
+12	0100.:hundred	hundred	1634	HUNDRED
+13	1.n.sg	we	1212	WE
+14	1.sg	I	1209	I
+15	2.n.sg	you	1213	YOU
+16	2.sg	thou	1215	THOU
+17	3.n.sg	they	817	THEY
+18	3.sg	she/she/it	262	HE OR SHE OR IT
+19	above:to.be	to be above	1741	ABOVE
+20	accipitridae..raptor:::	Accipitridae (raptor)	2683	EAGLE OR HAWK
+21	afternoon	afternoon	1807	AFTERNOON
+22	alcohol..from.rice	alcohol (from rice)	–	–
+23	alcohol..imported	alcohol (imported)	842	LIQUOR
+24	alcohol:brewed	brewed alcohol	404	ALCOHOL (FERMENTED DRINK)
+25	alcohol:brewed	brewed alcohol	842	ALCOHOL (FERMENTED DRINK)
+26	alcohol:distilled	distilled alcohol	404	LIQUOR
+27	alcohol:distilled	distilled alcohol	842	LIQUOR
+28	alive:to.be	to be alive	1422	BE ALIVE
+29	all	all	98	ALL
+30	angry:to.be	to be angry	1826	ANGRY
+31	animal..general	animal (general)	619	ANIMAL
+32	answer.:respond:to	to respond	1275	ANSWER
+33	ant..general	ant (general)	587	ANT
+34	ant.:termite	termite	883	TERMITE
+35	ant:black	black ant	–	–
+36	ant:red	red ant	–	–
+37	areca.nut	areca nut	217	BETELNUT
+38	arm.:elbow	elbow	981	ELBOW
+39	arm.:shoulder	shoulder	1482	SHOULDER
+40	arm::pit	armpit	1886	ARMPIT
+41	arrive:to	to arrive	1387	ARRIVE
+42	arrow	arrow	977	ARROW
+43	arum	arum	–	–
+44	ascend..move.upwards:to	to ascend (move upwards)	705	GO UP (ASCEND)
+45	ash	ash	646	ASH
+46	ask..question:to	to ask (question)	1309	ASK (INQUIRE)
+47	awaken:to	to awaken	1602	WAKE UP
+48	axe..general	axe (general)	677	AXE
+49	back..of.body	back (of body)	1291	BACK
+50	bad:to.be	to be bad	1292	BAD
+51	bald:to.be	to be bald	1125	BALD
+52	bamboo	bamboo	1927	BAMBOO
+53	bamboo.shoot	bamboo shoot	2494	BAMBOO SHOOT
+54	banana..fruit	banana (fruit)	868	BANANA
+55	bat..animal	bat (animal)	1793	BAT
+56	bear..animal	bear (animal)	1820	BEAR
+57	beard	beard	678	BEARD
+58	bed	bed	1663	BED
+59	bee..general	bee (general)	665	BEE
+60	belly..exterior	belly (exterior)	1251	BELLY
+61	below..under:to.be	to be below (under)	1485	BELOW OR UNDER
+62	big:to.be	to be big	1202	BIG
+63	bird..general.term	bird (general term)	937	BIRD
+64	bite:to	to bite	1403	BITE
+65	bitter:to.be	to be bitter	887	BITTER
+66	blanket	blanket	806	BLANKET
+67	blind:to.be	to be blind	1653	BLIND
+68	blood	blood	946	BLOOD
+69	blow..with.mouth:to	to blow (with mouth)	176	BLOW (WITH MOUTH)
+70	blunt..of.point:to.be	to be blunt (of point)	379	BLUNT
+71	boat	boat	1844	BOAT
+72	body	body	1480	BODY
+73	boil..liquid:to	to boil (liquid)	792	BOIL (OF LIQUID)
+74	bone	bone	1394	BONE
+75	bow	bow	994	BOW
+76	bowl	bowl	1530	BOWL
+77	bracelet	bracelet	1754	BRACELET
+78	brain	brain	1583	BRAIN
+79	break..vi:to	to break (vi)	3020	BREAK (BREAKING)
+80	breast	breast	1402	BREAST
+81	breathe:to	to breathe	1407	BREATHE
+82	bridge	bridge	1011	BRIDGE
+83	bright:to.be	to be bright	679	BRIGHT
+84	bring:to	to bring	692	BRING
+85	broom	broom	245	BROOM
+86	brother:elder	elder brother	1759	OLDER BROTHER
+87	brother:younger	younger brother	1760	YOUNGER BROTHER
+88	bubalus.bubalis..water.buffalo:::	Bubalus bubalis (water buffalo)	2516	WATER BUFFALO
+89	burn..ambitr:to	to burn (ambitr)	2102	BURN
+90	bury..object:to	to bury (object)	1719	BURY
+91	butterfly	butterfly	1791	BUTTERFLY
+92	buy:to	to buy	1869	BUY
+93	cane..rattan	cane (rattan)	2497	RATTAN
+94	carry..general:to	to carry (general)	700	CARRY
+95	cat..domestic	cat (domestic)	1208	CAT
+96	cattle..domestic	cattle (domestic)	1153	CATTLE
+97	cave	cave	1155	CAVE
+98	charcoal	charcoal	1188	CHARCOAL
+99	cheek	cheek	1730	CHEEK
+100	chest	chest	1592	CHEST
+101	child	child	2099	CHILD
+102	chili chutney	chili chutney	–	–
+103	chili.pepper	chili pepper	919	CHILI PEPPER
+104	chin	chin	1510	CHIN
+105	choose..between.things:to	to choose (between things)	1750	CHOOSE
+106	cicada	cicada	2353	CICADA
+107	civet.cat	civet cat	3157	CIVET
+108	claw..animal	claw (animal)	72	CLAW
+109	close..tr:to	to close (tr)	–	–
+110	cloth	cloth	1616	CLOTH
+111	cloud..rain	cloud (rain)	1489	CLOUD
+112	cockroach	cockroach	1575	COCKROACH
+113	cold..of.items:to.be	to be cold (of items)	1287	COLD
+114	collect..items:to	to collect (items)	–	–
+115	colour.:black:to.be	to be black	163	BLACK
+116	colour.:green:to.be	to be green	1425	GREEN
+117	colour.:red:to.be	to be red	156	RED
+118	colour.:white:to.be	to be white	1335	WHITE
+119	colour.:yellow:to.be	to be yellow	1424	YELLOW
+120	columbidae..pigeon:::	Columbidae (pigeon)	–	–
+121	comb	comb	1475	COMB
+122	comb:to	to comb	2070	COMB (VERB)
+123	come.back..return:to	to come back (return)	581	COME BACK
+124	come:to	to come	1446	COME
+125	conceal..something:to	to conceal (something)	602	HIDE (CONCEAL)
+126	concept_id	English	conc_id	conc_name
+127	cook..general:to	to cook (general)	1100	COOK (SOMETHING)
+128	coriander.seed	coriander seed	–	–
+129	corpse	corpse	767	CORPSE
+130	correct:to.be	to be correct	1657	TRUE
+131	cough:to	to cough	879	COUGH
+132	count:to	to count	1420	COUNT
+133	crab	crab	2348	CRAB
+134	crawl..of.babies:to	to crawl (of babies)	96	CRAWL
+135	crocodilia:::	Crocodilia	1857	CROCODILE
+136	crooked:to.be	to be crooked	297	CROOKED
+137	crow	crow	913	CROW
+138	crush:to	to crush	354	POUND
+139	cup..traditional	cup (traditional)	476	CUP
+140	cut..general:to	to cut (general)	1432	CUT
+141	dance:to	to dance	1879	DANCE
+142	dark:to.be	to be dark	–	–
+143	daughter	daughter	1357	DAUGHTER
+144	daughter.in.law	daughter in law	1057	DAUGHTER-IN-LAW
+145	dawn..before.sunrise	dawn (before sunrise)	729	DAWN
+146	day::time	daytime	1225	DAY (NOT NIGHT)
+147	deaf:to.be	to be deaf	996	DEAF
+148	deep:to.be	to be deep	1593	DEEP
+149	deer..general	deer (general)	1936	DEER
+150	descend..climb.down:to	to descend (climb down)	2014	GO DOWN (DESCEND)
+151	dew	dew	1977	DEW
+152	die:to	to die	1494	DIE
+153	difficult..hard:to.be	to be difficult (hard)	584	DIFFICULT
+154	dig:to	to dig	1418	DIG
+155	dirty:to.be	to be dirty	1230	DIRTY
+156	dive:to	to dive	119	DIVE
+157	dog	dog	2009	DOG
+158	door::way	doorway	1567	DOOR
+159	dove	dove	1853	DOVE
+160	dream	dream	–	–
+161	drink:to	to drink	1401	DRINK
+162	drum	drum	908	DRUM
+163	drunk:to.be	to be drunk	1463	DRUNK
+164	dry..in.sun:to	to dry (in sun)	1398	DRY
+165	duck	duck	1360	DUCK
+166	dust	dust	2	DUST
+167	ear	ear	1247	EAR
+168	ear..of.grain	ear (of grain)	–	–
+169	east	east	1877	EAST
+170	easy:to.be	to be easy	686	EASY
+171	eat..general:to	to eat (general)	1336	EAT
+172	egg..general	egg (general)	744	EGG
+173	eggplant..brinjal	eggplant (brinjal)	1146	AUBERGINE
+174	elephant	elephant	1290	ELEPHANT
+175	embrace..hug:to	to embrace (hug)	928	EMBRACE
+176	emerge:to	to emerge	1076	EMERGE (APPEAR)
+177	empty:to.be	to be empty	1624	EMPTY
+178	enter:to	to enter	749	ENTER
+179	ereyesterday	ereyesterday	1180	DAY BEFORE YESTERDAY
+180	evening	evening	1629	EVENING
+181	extinguish..fire:to	to extinguish (fire)	127	EXTINGUISH
+182	eye	eye	1248	EYE
+183	eye::brow	eyebrow	1173	EYEBROW
+184	eye::lid	eyelid	17	EYELID
+185	face	face	1560	FACE
+186	faeces..excrement	faeces (excrement)	675	FAECES (EXCREMENT)
+187	fall.down..of.objects:to	to fall down (of objects)	1280	FALL
+188	far:to.be	to be far	1406	FAR
+189	fast:to.be	to be fast	1631	FAST
+190	fat..substance	fat (substance)	323	FAT (ORGANIC SUBSTANCE)
+191	fat:to.be	to be fat	1279	FAT (OBESE)
+192	father	father	1217	FATHER
+193	father.in.law	father in law	–	–
+194	fear:to	to fear	1419	FEAR (BE AFRAID)
+195	feather	feather	1201	FEATHER
+196	fence	fence	1690	FENCE
+197	fern..general	fern (general)	–	–
+198	fern:fiddle.head	fiddle head fern	–	–
+199	festival	festival	131	FESTIVAL
+200	few.in.number:to.be	to be few in number	1242	FEW
+201	field..general	field (general)	212	FIELD
+202	field:jhum	jhum field	2794	FIELD (UPLAND)
+203	field:paddy	paddy field	140	PADDY FIELD
+204	finger	finger	1303	FINGER
+205	finger.:thumb	thumb	1781	THUMB
+206	finger::nail	fingernail	1258	FINGERNAIL
+207	fire	fire	221	FIRE
+208	fire::place..hearth	fireplace (hearth)	185	FIREPLACE
+209	fire::wood	firewood	10	FIREWOOD
+210	firefly	firefly	206	FIREFLY
+211	fish	fish	227	FISH
+212	fish:fermented	fermented fish	–	–
+213	flee..run.away:to	to flee (run away)	956	FLEE
+214	float:to	to float	1574	FLOAT
+215	flood:to	to flood	–	–
+216	flow..of.water:to	to flow (of water)	2003	FLOW
+217	flower	flower	239	FLOWER
+218	fly:to	to fly	1441	FLY (MOVE THROUGH AIR)
+219	fog..mist	fog (mist)	249	FOG
+220	forest	forest	420	FOREST
+221	forget:to	to forget	1523	FORGET
+222	fox	fox	1312	FOX
+223	friend	friend	1325	FRIEND
+224	frog	frog	503	FROG
+225	fruit	fruit	1507	FRUIT
+226	full..container:to.be	to be full (container)	1429	FULL
+227	full.:satiated:to.be	to be satiated	106	SATIATED
+228	garlic	garlic	2368	GARLIC
+229	ghost..of.deceased	ghost (of deceased)	1175	GHOST
+230	ginger	ginger	2500	GINGER
+231	girl:young	young girl	–	–
+232	give:to	to give	1447	GIVE
+233	go..general:to	to go (general)	695	GO
+234	goat	goat	1502	GOAT
+235	gold	gold	1369	GOLD
+236	gong	gong	2502	GONG
+237	good:to.be	to be good	1035	GOOD
+238	goose	goose	1187	GOOSE
+239	granddaughter	granddaughter	1619	GRANDDAUGHTER
+240	grandfather	grandfather	1383	GRANDFATHER
+241	grandmother	grandmother	1496	GRANDMOTHER
+242	grandson	grandson	1618	GRANDSON
+243	grass	grass	606	GRASS
+244	grasshopper	grasshopper	607	GRASSHOPPER
+245	grind:to	to grind	354	POUND
+246	gums	gums	139	GUMS
+247	gun	gun	1566	GUN
+248	hail..precipitation	hail (precipitation)	609	HAIL
+249	hair..of.body	hair (of body)	580	FUR
+250	hair..of.head	hair (of head)	2648	HAIR (HEAD)
+251	half..portion	half (portion)	816	HALF
+252	hand..arm	hand (arm)	1277	HAND
+253	hand:palm.of	palm of hand	1183	PALM OF HAND
+254	hard..firm:to.be	to be hard (firm)	1884	HARD
+255	head	head	1256	HEAD
+256	head.:forehead	forehead	123	FOREHEAD
+257	hear:to	to hear	1408	HEAR
+258	heart	heart	1223	HEART
+259	heavy:to.be	to be heavy	1210	HEAVY
+260	heel	heel	980	HEEL
+261	hit..something:to	to hit (something)	1433	HIT
+262	hold.in.hand:to	to hold in hand	1448	HOLD
+263	horn..of.animal	horn (of animal)	1393	HORN (ANATOMY)
+264	hornbill..general	hornbill (general)	3260	HORNBILL
+265	horse	horse	615	HORSE
+266	house	house	1252	HOUSE
+267	housefly..common	housefly (common)	1504	FLY (INSECT)
+268	hungry:to.be	to be hungry	1533	BE HUNGRY
+269	hunt:to	to hunt	1435	HUNT
+270	husband	husband	1200	HUSBAND
+271	ignite..vt:to	to ignite (vt)	737	LIGHT (IGNITE)
+272	ill..sick:to.be	to be ill (sick)	1847	SICK
+273	incorrect:to.be	to be incorrect	3069	FALSE
+274	insect	insect	620	INSECT
+275	intestines	intestines	1991	INTESTINES
+276	iron	iron	621	IRON
+277	itchy:to.be	to be itchy	149	ITCHY
+278	juice	juice	1499	JUICE
+279	jump:to	to jump	1829	JUMP
+280	kick..and.propel:to	to kick (and propel)	1135	KICK
+281	kill:to	to kill	1417	KILL
+282	kneel:to	to kneel	66	KNEEL
+283	knife	knife	1352	KNIFE
+284	know..how:to	to know (how)	2238	KNOW HOW
+285	know..something:to	to know (something)	1410	KNOW (SOMETHING)
+286	lake	lake	624	LAKE
+287	land..area	land (area)	626	LAND
+288	language	language	1307	LANGUAGE
+289	laugh:to	to laugh	1355	LAUGH
+290	leaf..general	leaf (general)	628	LEAF
+291	lean..not.fat:to.be	to be lean (not fat)	1400	THIN (SLIM)
+292	learn:to	to learn	504	LEARN
+293	leech:terrestrial	terrestrial leech	2273	LEECH
+294	left.side	left side	244	LEFT
+295	leg.:calf	calf	498	CALF OF LEG
+296	leg.:foot	foot	1301	FOOT
+297	leg.:knee	knee	1371	KNEE
+298	leg.:shin	shin	186	SHIN
+299	leg.:thigh	thigh	800	THIGH
+300	lick:to	to lick	319	LICK
+301	lie..decieve:to	to lie (decieve)	601	LIE (MISLEAD)
+302	life..lifetime	life (lifetime)	210	LIFE
+303	lift:to	to lift	501	LIFT
+304	lightning..in.sky	lightning (in sky)	1654	LIGHTNING
+305	lightweight:to.be	to be lightweight	1052	LIGHT (WEIGHT)
+306	lime..betelnut	lime (betelnut)	2540	LIME (MATERIAL)
+307	lip..of.mouth	lip (of mouth)	478	LIP
+308	liver	liver	1224	LIVER
+309	lizard..general	lizard (general)	632	LIZARD
+310	lizard.:chameleon	chameleon	–	–
+311	lizard:monitor	monitor lizard	3017	MONITOR LIZARD
+312	long:to.be	to be long	1203	LONG
+313	look.at:to	to look at	1819	LOOK
+314	loom	loom	1787	LOOM
+315	loose:to.be	to be loose	2506	LOOSE
+316	lose..something:to	to lose (something)	1660	LOSE
+317	louse	louse	1392	LOUSE
+318	love:to	to love	923	LOVE
+319	maize..corn	maize (corn)	506	MAIZE
+320	man..male.person	man (male person)	1554	MAN
+321	mango	mango	2398	MANGO
+322	many:to.be	to be many	1198	MANY
+323	marigold..flower	marigold (flower)	–	–
+324	mat	mat	195	MAT
+325	match..stick	match (stick)	1133	MATCH
+326	meat..flesh	meat (flesh)	634	MEAT
+327	medicine	medicine	1372	MEDICINE
+328	milk	milk	635	MILK
+329	millet..general	millet (general)	931	MILLET
+330	money	money	1559	MONEY
+331	monkey	monkey	1350	MONKEY
+332	monkey.:gibbon	gibbon	2511	GIBBON
+333	month	month	1370	MONTH
+334	moon	moon	1313	MOON
+335	morning	morning	1339	MORNING
+336	mortar	mortar	224	MORTAR
+337	mosquito	mosquito	1509	MOSQUITO
+338	mother	mother	1216	MOTHER
+339	mother.in.law	mother in law	–	–
+340	mountain	mountain	639	MOUNTAIN
+341	mountain.peak..summit	mountain peak (summit)	2205	PEAK
+342	mouth	mouth	674	MOUTH
+343	mud	mud	640	MUD
+344	muroid	muroid	2139	MUROID (MOUSE OR RAT)
+345	mushroom..general	mushroom (general)	–	–
+346	mushroom..tree.type	mushroom (tree type)	–	–
+347	name	name	1405	NAME
+348	narrow:to.be	to be narrow	1267	NARROW
+349	navel	navel	1838	NAVEL
+350	near:to.be	to be near	1942	NEAR
+351	neck	neck	1333	NECK
+352	necklace	necklace	1961	NECKLACE
+353	needle	needle	1382	NEEDLE (FOR SEWING)
+354	nest:bird	bird nest	3549	BIRD NEST
+355	new:to.be	to be new	1231	NEW
+356	night	night	1233	NIGHT
+357	noon..midday	noon (midday)	12	MIDDAY
+358	north	north	1598	NORTH
+359	nose	nose	1221	NOSE
+360	ogre	ogre	–	–
+361	oil..substance	oil (substance)	2556	OIL (HYDROPHOBIC LIQUID)
+362	okra	okra	–	–
+363	old..of.people:to.be	to be old (of people)	2112	OLD (AGED)
+364	old..of.things:to.be	to be old (of things)	–	–
+365	onion	onion	2366	ONION
+366	opium	opium	–	–
+367	otter	otter	15	OTTER
+368	overmorrow	overmorrow	1179	DAY AFTER TOMORROW
+369	owl	owl	735	OWL
+370	pangolin	pangolin	2508	PANGOLIN
+371	parrot	parrot	882	PARROT
+372	path..road	path (road)	2252	PATH
+373	pay:to	to pay	718	PAY
+374	peanut	peanut	2364	PEANUT
+375	penis	penis	1222	PENIS
+376	people	people	789	PEOPLE
+377	person..human	person (human)	683	PERSON
+378	pestle	pestle	225	PESTLE
+379	pierce.puncture:to	to pierce puncture	398	PIERCE
+380	pig	pig	1337	PIG
+381	pillow	pillow	1044	PILLOW
+382	pineapple	pineapple	–	–
+383	place..put:to	to place (put)	998	PUT
+384	plant	plant	653	PLANT (VEGETATION)
+385	plant:to	to plant	1486	PLANT (SOMETHING)
+386	plate	plate	480	PLATE
+387	play..of.children:to	to play (of children)	1413	PLAY
+388	plough:to	to plough	1921	PLOUGH
+389	poison..general	poison (general)	655	POISON
+390	porcupine	porcupine	2510	PORCUPINE
+391	pot:cooking	cooking pot	1462	POT
+392	potato	potato	593	POTATO
+393	pound..of.rice:to	to pound (of rice)	354	POUND
+394	pregnant:to.be	to be pregnant	–	–
+395	pull:to	to pull	1455	PULL
+396	pus	pus	1808	PUS
+397	push:to	to push	1452	PUSH
+398	q.:what	what	–	–
+399	rabbit	rabbit	1136	RABBIT
+400	raft	raft	1664	RAFT
+401	rain	rain	1253	RAIN (RAINING)
+402	rainbow	rainbow	1733	RAINBOW
+403	raw..uncooked:to.be	to be raw (uncooked)	1959	RAW
+404	release..let.go:to	to release (let go)	1095	LET GO OR SET FREE
+405	remember:to	to remember	707	REMEMBER
+406	rib..bone	rib (bone)	801	RIB
+407	rice..paddy:unhusked	unhusked rice (paddy)	2749	UNHUSKED RICE
+408	rice..uncooked:husked	husked rice (uncooked)	3289	UNCOOKED RICE
+409	rice.husk	rice husk	2501	RICE HUSK
+410	rice.seedling	rice seedling	–	–
+411	rice.straw	rice straw	3391	RICE STRAW
+412	rice:cooked	cooked rice	1191	COOKED RICE
+413	rice:crushed	crushed rice	3285	RICE FLOUR
+414	rice:sticky	sticky rice	2750	GLUTINOUS RICE
+415	right.side	right side	1019	RIGHT
+416	ring..on.finger	ring (on finger)	1374	RING
+417	ripe:to.be	to be ripe	178	RIPE
+418	river	river	666	RIVER
+419	roll.down:to	to roll down	827	ROLL
+420	roll.up..mat:to	to roll up (mat)	–	–
+421	roof..of.building	roof (of building)	769	ROOF
+422	root..general	root (general)	–	–
+423	rope	rope	1218	ROPE
+424	rosa.chinensis..china.rose:::	Rosa chinensis (china rose)	–	–
+425	rotten:to.be	to be rotten	1728	ROTTEN
+426	rough:to.be	to be rough	1923	ROUGH
+427	round:to.be	to be round	1395	ROUND
+428	rub:to	to rub	1449	RUB
+429	saliva	saliva	1503	SALIVA
+430	salt	salt	1274	SALT
+431	sand	sand	671	SAND
+432	sarong.:longyi	longyi	–	–
+433	scent..fragrance	scent (fragrance)	–	–
+434	scorpion	scorpion	1538	SCORPION
+435	scrape..with.edge:to	to scrape (with edge)	1767	SCRAPE
+436	sea	sea	1474	SEA
+437	see:to	to see	1409	SEE
+438	seed	seed	714	SEED
+439	sell:to	to sell	1571	SELL
+440	sew:to	to sew	1457	SEW
+441	shadow..of.something	shadow (of something)	2275	SHADOW
+442	shallow:to.be	to be shallow	193	SHALLOW
+443	sharp..of.edge:to.be	to be sharp (of edge)	1396	SHARP
+444	sheep	sheep	1331	SHEEP
+445	short..length:to.be	to be short (length)	1645	SHORT
+446	show..display:to	to show (display)	1039	SHOW
+447	shy:to.be	to be shy	487	SHY
+448	silver	silver	759	SILVER
+449	sing:to	to sing	1261	SING
+450	sink:to	to sink	1088	SINK (DESCEND)
+451	sister:elder	elder sister	1758	OLDER SISTER
+452	sister:younger	younger sister	1761	YOUNGER SISTER
+453	sit:to	to sit	1416	SIT
+454	skin	skin	763	SKIN
+455	sky	sky	1732	SKY
+456	sleep:to	to sleep	1585	SLEEP
+457	slow:to.be	to be slow	701	SLOW
+458	small:to.be	to be small	1246	SMALL
+459	smell.bad:to	to smell bad	–	–
+460	smell.good..fragrant:to	to smell good (fragrant)	–	–
+461	smile:to	to smile	1451	SMILE
+462	smoke	smoke	778	SMOKE (EXHAUST)
+463	smooth:to.be	to be smooth	1234	SMOOTH
+464	snail	snail	1543	SNAIL
+465	snake	snake	730	SNAKE
+466	sneeze:to	to sneeze	1621	SNEEZE
+467	snore:to	to snore	1983	SNORE
+468	soft:to.be	to be soft	1856	SOFT
+469	soil	soil	1228	EARTH (SOIL)
+470	son	son	1620	SON
+471	son.in.law	son in law	1056	SON-IN-LAW
+472	sour:to.be	to be sour	1906	SOUR
+473	south	south	1595	SOUTH
+474	speak:to	to speak	1623	SPEAK
+475	spicy..of.chilis	spicy (of chilis)	544	SPICY
+476	spider	spider	843	SPIDER
+477	spider::web	spiderweb	1065	SPIDER WEB
+478	spoon..utensil	spoon (utensil)	1378	SPOON
+479	squeeze:to	to squeeze	1414	SQUEEZE
+480	squirrel..general	squirrel (general)	1628	SQUIRREL
+481	stand..remain.standing:to	to stand (remain standing)	1442	STAND
+482	star	star	1430	STAR
+483	steal:to	to steal	713	STEAL
+484	step:to	to step	2065	STEP (VERB)
+485	stick..branch	stick (branch)	1295	STICK
+486	sting..of.bee:to	to sting (of bee)	571	STING
+487	stone	stone	857	STONE
+488	straight:to.be	to be straight	1404	STRAIGHT
+489	stream	stream	947	STREAM
+490	strong:to.be	to be strong	785	STRONG
+491	suck:to	to suck	1421	SUCK
+492	summer..warm.season	summer (warm season)	–	–
+493	sun	sun	1343	SUN
+494	sun::shine	sunshine	3276	SUNSHINE
+495	swallow:to	to swallow	897	SWALLOW
+496	sweat:to	to sweat	126	SWEAT (PERSPIRE)
+497	sweet:to.be	to be sweet	717	SWEET
+498	swell:to	to swell	1573	SWELL
+499	swim:to	to swim	1439	SWIM
+500	tail	tail	1220	TAIL
+501	take:to	to take	1749	TAKE
+502	tall:to.be	to be tall	711	TALL
+503	tea	tea	1373	TEA
+504	tear..from.eye	tear (from eye)	–	–
+505	tear:to	to tear	–	–
+506	tell:to	to tell	1711	TELL
+507	testicle	testicle	797	TESTICLES
+508	that...dist.dem	that	4	THAT
+509	thick..of.material:to.be	to be thick (of material)	1244	THICK
+510	thin..not.thick:to.be	to be thin (not thick)	2306	THIN (OF LEAF AND CLOTH)
+511	think:to	to think	2271	THINK
+512	thirsty:to.be	to be thirsty	3474	BE THIRSTY
+513	this...prox.dem	this	1214	THIS
+514	thorn	thorn	124	THORN
+515	thread..string	thread (string)	1161	THREAD
+516	throat	throat	1346	THROAT
+517	throw:to	to throw	1456	THROW
+518	thunder	thunder	1150	THUNDER
+519	tie:to	to tie	1917	TIE
+520	tiger	tiger	846	TIGER
+521	tight..of.rope:to.be	to be tight (of rope)	3053	TIGHT
+522	tired..fatigued:to.be	to be tired (fatigued)	1757	TIRED
+523	tobacco	tobacco	974	TOBACCO
+524	today	today	1283	TODAY
+525	toe	toe	1389	TOE
+526	tomorrow	tomorrow	1329	TOMORROW
+527	tongs..general	tongs (general)	272	TONGS
+528	tongue	tongue	1205	TONGUE
+529	tooth	tooth	1380	TOOTH
+530	trap..snare	trap (snare)	3320	SNARE (TRAP)
+531	tree	tree	906	TREE
+532	tree.:branch	branch	1531	BRANCH
+533	tree::bark	treebark	1204	BARK
+534	trousers	trousers	809	TROUSERS
+535	true:to.be	to be true	1657	TRUE
+536	turmeric	turmeric	2842	TURMERIC
+537	turtle..tortoise	turtle (tortoise)	112	TURTLE
+538	unbroken:to.be	to be unbroken	–	–
+539	understand:to	to understand	–	–
+540	unripe:to.be	to be unripe	1958	UNRIPE
+541	urine	urine	1142	URINE
+542	vagina	vagina	1836	VAGINA
+543	valley	valley	921	VALLEY
+544	venom	venom	–	–
+545	village	village	930	VILLAGE
+546	vine..creeper	vine (creeper)	343	VINE
+547	vomit:to	to vomit	1278	VOMIT
+548	vulture	vulture	1185	VULTURE
+549	waist	waist	1681	WAIST
+550	wait:to	to wait	1590	WAIT (FOR)
+551	walk:to	to walk	1443	WALK
+552	wall	wall	3830	WALL
+553	warm:to.be	to be warm	1232	WARM
+554	wash..general:to	to wash (general)	1453	WASH
+555	wash.:bathe:to	to bathe	138	BATHE
+556	water	water	948	WATER
+557	water.container	water container	–	–
+558	weak:to.be	to be weak	1601	WEAK
+559	weave.fabric:to	to weave fabric	133	WEAVE
+560	weep..cry:to	to weep (cry)	1839	CRY
+561	well..water.source	well (water source)	954	WELL
+562	west	west	1817	WEST
+563	wet:to.be	to be wet	1726	WET
+564	wheat	wheat	1077	WHEAT
+565	wide..broad	wide (broad)	1243	WIDE
+566	widow	widow	1756	WIDOW
+567	wife	wife	1199	WIFE
+568	wild.boar	wild boar	–	–
+569	wind	wind	960	WIND
+570	wing	wing	1257	WING
+571	winnow:to	to winnow	2462	WINNOWING
+572	winter..cold.season	winter (cold season)	1471	WINTER
+573	wipe:to	to wipe	1454	WIPE
+574	woman..female.human	woman (female human)	962	WOMAN
+575	wood	wood	1803	WOOD
+576	word	word	1599	WORD
+577	work:to	to work	984	WORK (LABOUR)
+578	worm..general	worm (general)	1219	WORM
+579	worry:to	to worry	–	–
+580	yam	yam	410	YAM
+581	yam:elephant.foot	elephant foot yam	–	–
+582	yawn:to	to yawn	1028	YAWN
+583	year	year	1226	YEAR
+584	yesterday	yesterday	1174	YESTERDAY
